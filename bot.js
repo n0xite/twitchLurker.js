@@ -27,7 +27,7 @@ params.append('client_secret','...')
 params.append('grant_type','client_credentials')
 
 const revokeparams = new URLSearchParams()
-revokeparams.append('client_id','y7y0leoc57bsk0r0d0pkl3r0s3akpj')
+revokeparams.append('client_id','...')
 revokeparams.append('token', Auth_token)
 const config = {
     headers: {
