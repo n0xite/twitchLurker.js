@@ -22,8 +22,8 @@ const LoginButtonSelector = 'body > div.ReactModalPortal > div > div > div > div
 
 
 const params = new URLSearchParams()
-params.append('client_id','y7y0leoc57bsk0r0d0pkl3r0s3akpj')
-params.append('client_secret','l2500byk5gr93pl6npfuiocinvfp5e')
+params.append('client_id','...')
+params.append('client_secret','...')
 params.append('grant_type','client_credentials')
 
 const revokeparams = new URLSearchParams()
