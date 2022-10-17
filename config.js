@@ -3,7 +3,7 @@ module.exports = {
     password: '...',
     streamer: '...',
     Auth_token: '...',
-    gameName: 'E...',
+    gameName: '...',
     ChromePath: '...'
     
 }
